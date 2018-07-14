@@ -2,9 +2,17 @@ body{
     font-family: 'Roboto Condensed', sans-serif !important;
 }
 
+.img-fluid {
+  width: 720 !important;
+  height: 486 !important;
+  padding: 10px !important;
+}
+
 h2 {
   font-family: 'Roboto Condensed', sans-serif !important;
 }
+
+
 #one{
     margin-right: 5px;
     margin-bottom: 4px;
@@ -37,12 +45,12 @@ h2 {
   
   hr.star-light,
   hr.star-dark {
-    max-width: 15rem;
+    max-width: 60rem;
     padding: 0;
     text-align: center;
     border: none;
     border-top: solid 0.25rem;
-    margin-top: 2.5rem;
+
     margin-bottom: 2.5rem;
   }
   
@@ -263,6 +271,7 @@ h2 {
     transform: scale(1.2);
     transition: all .2s ease-in-out;
     transform: scale(1.2);
+    padding: -20px !important;
   }
   
   .portfolio .portfolio-item .portfolio-item-caption {
@@ -275,6 +284,7 @@ h2 {
   
   .portfolio .portfolio-item .portfolio-item-caption:hover {
     opacity: 1;
+
   }
   
   .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
