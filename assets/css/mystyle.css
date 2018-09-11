@@ -30,6 +30,17 @@ section#about.bg-primary.text-white.mb-0{
     background-size: cover;
 }
 
+section#portfolio.portfolio{
+  background-color: #d0b568 !important;
+}
+
+section#contact{
+  background-color: #d0b568 !important;
+}
+
+input#name.form-control{
+}
+
 .img-fluid {
   width: 720 !important;
   height: 486 !important;
@@ -103,7 +114,7 @@ h2 {
   }
   
   hr.star-dark {
-    border-color: orange;
+    border-color: rgb(90, 58, 21);
   }
   
   hr.star-dark:after {
