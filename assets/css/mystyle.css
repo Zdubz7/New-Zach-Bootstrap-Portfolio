@@ -2,6 +2,34 @@ body{
     font-family: 'Roboto Condensed', sans-serif !important;
 }
 
+header.masthead.bg-primary.text-white.text-center{
+  background: linear-gradient(
+    rgba(245, 151, 9, 0.877), 
+    rgba(17, 17, 17, 0.911)),
+   url(../images/normal/topphillyphilly.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+section#about.bg-primary.text-white.mb-0{
+  background: linear-gradient(
+    rgba(245, 151, 9, 0.959), 
+    rgba(17, 17, 17, 0.952)),
+   url(../images/normal/phillyphilly.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 .img-fluid {
   width: 720 !important;
   height: 486 !important;
@@ -66,12 +94,12 @@ h2 {
   }
   
   hr.star-light {
-    border-color: rgb(90, 58, 21);
+    border-color: #ffffff;
   }
   
   hr.star-light:after {
     color: orange;
-    background-color: rgb(90, 58, 21);
+    background-color: #ffffff;
   }
   
   hr.star-dark {
@@ -403,8 +431,18 @@ h2 {
   .footer {
     padding-top: 1rem;
     padding-bottom: 3rem;
-    background-color: #2C3E50;
     color: #fff;
+    background: linear-gradient(
+      rgba(245, 151, 9, 0.719), 
+      rgba(17, 17, 17, 0.534)),
+     url(../images/normal/phillyphillybottom.gif);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
   }
   
   .copyright {
@@ -462,5 +500,6 @@ h2 {
   .section#contact{
     margin-top: 0px !important;
   }
-  
+
+
   
