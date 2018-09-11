@@ -38,6 +38,35 @@ section#contact{
   background-color: #d0b568 !important;
 }
 
+div.container.text-center{
+  background-color: rgb(167, 95, 14) !important;
+}
+
+a.btn.btn-primary.btn-lg.rounded-pill.portfolio-modal-open{
+  color: orange !important;
+  border-color: orange !important;
+  background-color: transparent !important;
+}
+
+a.btn.btn-primary.btn-lg.rounded-pill.portfolio-modal-open:hover{
+  color: #fff !important;
+  border-color: #503315 !important;
+  background-color: #503315 !important;
+}
+
+a.btn.btn-primary.btn-lg.rounded-pill.portfolio-modal-dismiss{
+  color: orange !important;
+  border-color: orange !important;
+  background-color: transparent !important;
+}
+
+a.btn.btn-primary.btn-lg.rounded-pill.portfolio-modal-dismiss:hover{
+  color: #fff !important;
+  border-color: #503315 !important;
+  background-color: #503315 !important;
+}
+
+
 input#name.form-control{
 }
 
@@ -89,7 +118,6 @@ h2 {
     text-align: center;
     border: none;
     border-top: solid 0.25rem;
-
     margin-bottom: 2.5rem;
   }
   
