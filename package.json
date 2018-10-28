@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+    "homepage": "https://github.com/Zdubz7/New-Zach-Bootstrap-Portfolio",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Zdubz7/New-Zach-Bootstrap-Portfolio/issues",
+        "email": "zachwiest7@gmail.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "license": "",
+    "author": "Zach Wiest",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/Zdubz7/New-Zach-Bootstrap-Portfolio"
     },
     "dependencies": {
         "bootstrap": "^4.1.2",
