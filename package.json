@@ -1,5 +1,5 @@
 {
-    "title": "Freelancer",
+    "title": "New-Zach-Bootstrap-Portfolio",
     "name": "startbootstrap-freelancer",
     "version": "4.1.1",
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
@@ -19,7 +19,7 @@
     "license": "",
     "author": "Zach Wiest",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Zach Wiest"
     ],
     "repository": {
         "type": "git",
